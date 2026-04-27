@@ -32,8 +32,9 @@ This project contains a simple LAN network created using Cisco Packet Tracer.
 ## Screenshots
 
 <p align="center">
-  <img src="Capture%d'écran%2026-04-28%001808.png" width="45%" />
-  <img src="" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-28%20001729.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-28%20001801.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-28%20001808.png" width="45%" />
 </p>
 
 ### File
