@@ -9,15 +9,13 @@ This project contains a simple LAN network created using Cisco Packet Tracer.
 - 4 PCs
 - 1 Switch
 
-  ## Screenshots
+
 ## Screenshots
 
 <p align="center">
   <img src="Capture%20d%27%C3%A9cran%202026-04-27%20232014.png" width="45%" />
   <img src="Capture%20d%27%C3%A9cran%202026-04-27%20232031.png" width="45%" />
 </p>
-![Topology](Capture%20d%27%C3%A9cran%202026-04-27%20232014.png)
-![Test](Capture%20d%27%C3%A9cran%202026-04-27%20232031.png)
 
 ### File
 - TP1(4PC-1Switch).pkt
