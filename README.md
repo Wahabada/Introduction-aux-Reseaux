@@ -66,3 +66,25 @@ This project contains a simple LAN network created using Cisco Packet Tracer.
 ### File
 - TP3(3PC-1Switch---3PC-1HUB).pkt
 
+
+## TP4:Protocole ARP
+
+### Topology
+- 4 PCs
+- 1 Switch
+
+## Screenshots
+
+<p align="center">
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20184040.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20184031.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20184005.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20183838.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20183611.png" width="45%" />
+  
+  
+</p>
+
+### File
+- TP4(4PC-1Switch).pkt
+
