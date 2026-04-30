@@ -40,3 +40,29 @@ This project contains a simple LAN network created using Cisco Packet Tracer.
 ### File
 - TP2(4PC-2Switch-1Routeur).pkt
 
+
+## TP3:Hub vs Switch et les adresses physiques (MAC)
+
+### Topology 1
+- 3 PCs
+- 1 Switch
+
+### Topology 2
+- 3 PCs
+- 1 HUB
+
+
+
+
+## Screenshots
+
+<p align="center">
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20100250.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20122543.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20122620.png" width="45%" />
+  
+</p>
+
+### File
+- TP3(3PC-1Switch---3PC-1HUB).pkt
+
