@@ -88,3 +88,31 @@ This project contains a simple LAN network created using Cisco Packet Tracer.
 ### File
 - TP4(4PC-1Switch).pkt
 
+
+## TP5:Protocole TelNet
+
+### Topology 1
+- 2 PCs
+- 1 Routeur
+
+### Topology 2
+- 5 PCs
+- 1 Switch
+
+## Screenshots
+
+<p align="center">
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20204006.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20210153.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20211440.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20211426.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20211316.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-04-30%20210452.png" width="45%" />
+  
+  
+  
+</p>
+
+### File
+- TP5(2PC-1Routeur---5PC-1Switch)
+
