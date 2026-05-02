@@ -136,3 +136,26 @@ This project contains a simple LAN network created using Cisco Packet Tracer.
 
 ### File
 - TP6(4PC-1Switch-2Routeur)
+
+
+## TP:Révision
+
+### Topology
+- 4 PCs
+- 2 Switch
+- 3 Routeur
+
+
+## Screenshots
+
+<p align="center">
+  <img src="Capture%20d%27%C3%A9cran%202026-05-02%20080839.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-05-02%20080552.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-05-02%20080142.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-05-02%20075833.png" width="45%" />
+  <img src="Capture%20d%27%C3%A9cran%202026-05-02%20075211.png" width="45%" />
+
+</p>
+
+### File
+- TP-Révision(4PC-2Switch-3Routeur).pkt
